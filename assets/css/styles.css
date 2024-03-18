@@ -1,0 +1,33 @@
+/* estilos foto */
+.foto{
+    width: 200px;
+    border-radius: 10px;
+    float: right;
+}
+/* estilos principal */
+.principal{
+    display: flex;
+    padding-bottom: 30px;
+}
+body{
+    padding: 20px 100px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.columna{
+    width: 50%;
+}
+
+.profesional{
+    display: flex;
+}
+.col-1{
+    width: 30%;
+}
+.col-2{
+    width: 70%;
+}
+footer{
+    text-align: center;
+    background-color: aquamarine;
+}
